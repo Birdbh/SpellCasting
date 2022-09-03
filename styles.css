@@ -1,0 +1,31 @@
+body {
+    
+}
+
+.header-main {
+    color: red;
+    font-size: x-large;
+    padding:2%;
+    background-color: aquamarine;
+    
+}
+.header-main:hover{
+    color:black;
+    transform: translate(20px);
+    width:fit-content;
+    content:normal;
+}
+
+.section {
+    border-radius: 2px;
+    box-shadow: 10px;
+    font-size: medium;
+}
+
+p {
+    color:blueviolet
+}
+
+.subheader {
+    
+}
